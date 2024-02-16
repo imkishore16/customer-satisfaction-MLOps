@@ -1,0 +1,13 @@
+ZenML Project Lifecycle:
+
+createe dataset folder
+pip install zenml["server"]
+zenml init --> initializes zenml
+zenml up --> starts server
+
+folders:
+create src folder
+create pipelines folder
+create steps
+create saved_model
+create run_pipeline.py  --> sort of like main.py
